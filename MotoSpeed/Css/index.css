@@ -1,0 +1,40 @@
+/* Initial Heigth */
+html,body 
+{height: 100%;} 
+
+.blocohome
+{min-height: 100%;padding-top: 94px;} 
+/*Final Heigth */
+
+/*Initial Color*/
+.yellow-logo
+{background-color: #c5c2b1;}
+
+.btn-large:hover 
+{ background-color:#ffdb00;}
+/*Final Color*/
+
+
+/*Initial Home */
+.home
+{animation: Changinghomes 20s infinite;background-image: url('../Imagens/index/moto1_index.jpg');background-repeat: no-repeat;
+background-size: cover;}
+
+/*Initial Home (Animation)*/
+@keyframes Changinghomes
+{
+    40%
+    { background-image: url('../Imagens/index/moto3_index.png');}
+
+    80%
+    {background-image: url('../Imagens/index/moto2_index.jpg');}
+
+    100%
+    { background-image: url('../Imagens/index/moto1_index.jpg');}
+
+}
+/*Final Home (Animation)*/
+/*Final Home*/
+
+
+

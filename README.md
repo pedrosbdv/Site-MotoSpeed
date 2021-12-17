@@ -1,5 +1,13 @@
 # Site-MotoSpeed
 
+![image](https://user-images.githubusercontent.com/96310056/146598546-b7bde17f-c6e8-4518-aab9-2d3b5508f204.png)
+![image](https://user-images.githubusercontent.com/96310056/146598625-468034ab-146f-4fb9-8c18-a83e9e594027.png)
+![image](https://user-images.githubusercontent.com/96310056/146598671-58dbd6e7-0bdd-4d91-a19b-526a94254cfc.png)
+![image](https://user-images.githubusercontent.com/96310056/146598747-1ec83e43-afb0-443e-9c54-9d07fc7c8cd2.png)
+![image](https://user-images.githubusercontent.com/96310056/146598782-c22f33f3-3462-4a3d-8203-39f089073bc2.png)
+![image](https://user-images.githubusercontent.com/96310056/146598811-b6819eb6-476e-4cec-b7cb-b8066a1489ec.png)
+
+<p>Imagens do Site</p>
 
 
 <h2> SOBRE ESTE PROJETO </h2>
@@ -23,5 +31,8 @@
 
 <h2>Para executar o projeto</h2>
 
-1. Abra o arquivo Index.html ou faça download dos arquivos
+1. Faça download dos arquivos selecionando code e selecione download
+2. Descompacte o arquivo 
+3. Abra a pasta motospeed
+4. Abra index.html
 

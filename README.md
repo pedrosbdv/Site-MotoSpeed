@@ -32,4 +32,10 @@ https://pedrosbdv.github.io/Site-MotoSpeed/MotoSpeed/index.html
 * CSS
 * JavaScript
 
+<h2>FrameWorks utilizados</h2>
+
+* Materialize
+* Bulma
+
+
 
